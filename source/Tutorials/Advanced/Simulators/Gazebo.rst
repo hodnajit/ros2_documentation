@@ -110,7 +110,7 @@ You can install this package by typing:
 
       .. code-block:: console
 
-        sudo apt-get install ros-{DISTRO}-ros-ign-bridge
+        sudo apt-get install ros-{DISTRO}-ros-gz-bridge
 
 At this point you are ready to launch a bridge from ROS to Gazebo.
 In particular you are going to create a bridge for the topic ``/model/vehicle_blue/cmd_vel``:
